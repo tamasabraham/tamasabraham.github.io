@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Tamas Abraham
+tagline:             The Growth & DevRel guy
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Tamas Abraham
+  url:               https://twitter.com/tamasabraham
+  email:             tombbram@gmail.com
 
 # Custom vars
 version:             2.0.0
