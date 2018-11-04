@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New post here
+permalink: /new-post-here.html
 ---
 
 Placeholder text until I have a better idea. [...]
