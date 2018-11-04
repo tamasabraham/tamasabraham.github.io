@@ -1,7 +1,8 @@
 ---
 layout: post
 title: New post here
-permalink: /new-post-here.html
+permalink: /new-post-here
+tags: meetupfeed
 ---
 
 Placeholder text until I have a better idea. [...]
